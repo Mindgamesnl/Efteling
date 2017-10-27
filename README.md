@@ -155,6 +155,8 @@ volkvanlaafmonorailIs in maintenance since 2017-06-06T00:00:00 and will open aga
 * volkvanlaafmonorail
 * carrouselsantonpieckplein
 * eftelingmuseum
+* symbolicasingleriders
+* symbolica
 ## Hospitality
 * poffertjestogo
 * panoramalacarte
