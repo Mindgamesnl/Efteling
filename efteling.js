@@ -81,7 +81,7 @@ function eftelingjs() {
       return list;
     }
 
-    this.update = function(callback. host) {
+    this.update = function(callback, host) {
       $.getScript(host)
         .done(function(script, textStatus) {
           setTimeout(callback, 500);
