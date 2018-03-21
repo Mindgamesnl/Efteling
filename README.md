@@ -1,5 +1,5 @@
 # Efteling.js
-A javascript ui for the efteling
+A javascript wrapper for the efteling API
 
 The efteling.js project is not maintained by the efteling.
 
